@@ -1,4 +1,4 @@
-# Wu-Tang Name Generator
+# 🎤 Wu-Tang Name Generator
 
 **Project Overview**
 
